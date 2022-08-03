@@ -1,4 +1,4 @@
-module github.com/jfrog/froggit-go
+module github.com/hubmat00/froggit-go
 
 go 1.17
 

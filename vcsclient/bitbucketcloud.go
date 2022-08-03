@@ -12,7 +12,7 @@ import (
 
 	"github.com/mitchellh/mapstructure"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 	"github.com/ktrysmt/go-bitbucket"
 )
 

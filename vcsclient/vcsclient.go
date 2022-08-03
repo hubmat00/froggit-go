@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 )
 
 // CommitStatus the status of the commit in the VCS

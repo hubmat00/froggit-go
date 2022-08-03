@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/google/go-github/v45/github"
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 )
 
 // GitHubWebhook represents an incoming webhook on GitHub

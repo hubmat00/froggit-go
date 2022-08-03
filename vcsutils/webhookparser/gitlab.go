@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 	"github.com/xanzy/go-gitlab"
 )
 

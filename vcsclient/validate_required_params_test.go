@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

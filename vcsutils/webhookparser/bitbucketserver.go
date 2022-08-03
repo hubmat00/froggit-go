@@ -12,7 +12,7 @@ import (
 	"time"
 
 	bitbucketv1 "github.com/gfleury/go-bitbucket-v1"
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 )
 
 const sha256Signature = "X-Hub-Signature"

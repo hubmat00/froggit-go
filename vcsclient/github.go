@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"github.com/google/go-github/v45/github"
 	"github.com/grokify/mogo/encoding/base64"
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 	"golang.org/x/oauth2"
 	"net/http"
 	"net/url"

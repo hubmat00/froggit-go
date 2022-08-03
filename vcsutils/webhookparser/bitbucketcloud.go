@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 )
 
 // BitbucketCloudWebhook represents an incoming webhook on Bitbucket cloud

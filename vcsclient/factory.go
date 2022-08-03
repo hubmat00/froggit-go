@@ -3,7 +3,7 @@ package vcsclient
 import (
 	"log"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 )
 
 // ClientBuilder builds VcsClient

@@ -3,7 +3,7 @@ package webhookparser
 import (
 	"net/http"
 
-	"github.com/jfrog/froggit-go/vcsutils"
+	"github.com/hubmat00/froggit-go/vcsutils"
 )
 
 // EventHeaderKey represents the event type of an incoming webhook from Bitbucket
